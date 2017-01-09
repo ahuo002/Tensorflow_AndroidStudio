@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/woko/AndroidStudio/TFDemo/gradleBuild/intermediates/res/merged/debug/drawable-hdpi-v4/tile.9.png",
+        "source": "/home/woko/AndroidStudio/TFDemo/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/home/woko/AndroidStudio/TFDemo/gradleBuild/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/woko/AndroidStudio/TFDemo/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/woko/AndroidStudio/TFDemo/gradleBuild/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_info.png",
+        "source": "/home/woko/AndroidStudio/TFDemo/res/drawable-hdpi/ic_action_info.png"
+    }
+]

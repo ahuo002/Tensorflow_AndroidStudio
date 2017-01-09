@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/woko/AndroidStudio/TFDemo/gradleBuild/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_info.png",
+        "source": "/home/woko/AndroidStudio/TFDemo/res/drawable-mdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/home/woko/AndroidStudio/TFDemo/gradleBuild/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/home/woko/AndroidStudio/TFDemo/res/drawable-mdpi/ic_launcher.png"
+    }
+]
